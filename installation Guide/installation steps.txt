@@ -24,6 +24,17 @@
             nvm use 8.9.4
         npm - npm --version
 
-    - To know the all the node --versiob installed
+    - To know the all the node --version installed
             nvm list
+
     
+2. Git installations
+    installation link - https://git-scm.com/downloads
+
+    git useful commands - 
+        to change
+            username - git config user.name 'username'
+            email - git config user.email 'email@gmail.com'
+            git remote set-url origin https://github.com/RaghottamK/installation-guide.git
+            
+
