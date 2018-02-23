@@ -1,0 +1,29 @@
+// to install nvm, node and npm
+
+1. Before installing node, install nvm
+   
+    Help link - https://medium.com/appseed-io/how-to-run-multiple-versions-of-node-js-with-nvm-for-windows-ffbe5c7a2b47
+
+    - Link to install NVM 
+        - https://github.com/coreybutler/nvm-windows/releases
+        - Download and follow the steps
+
+    - Link to install Node
+        Either u can directly download from Node website
+            https://nodejs.org/en/
+        
+        Or using nvm installed in previous steps- 
+            Run - $ nvm install 8.9.4 64 
+            (8.9.4 - current latest version creating this document for 64 bit operating system)
+    
+    - NPM is autometically installed along with node.
+
+    - To verify the installations
+        NVM - nvm version
+        node - node --version
+            nvm use 8.9.4
+        npm - npm --version
+
+    - To know the all the node --versiob installed
+            nvm list
+    
