@@ -36,5 +36,7 @@
             username - git config user.name 'username'
             email - git config user.email 'email@gmail.com'
             git remote set-url origin https://github.com/RaghottamK/installation-guide.git
+
+3. git rebase test first change
             
 
